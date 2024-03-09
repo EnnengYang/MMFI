@@ -17,14 +17,15 @@ If you find our paper or this resource helpful, please consider cite:
   title={Multi-Scenario and Multi-Task Aware Feature Interaction for Recommendation System},
   author={Song, Derun and Yang, Enneng and Guo, Guibing and Shen, Li and Jiang, Linying and Wang, Xingwei. },
   journal={ACM Transactions on Knowledge Discovery from Data},
-  volume={},
-  number={},
-  pages={},
   year={2024},
   publisher={ACM New York, NY}
 }
 ```
 Thanks!
+
+<!-- volume={},
+number={},
+pages={}, -->
 
 ## Requirements
 - Python == 3.6.13
@@ -34,7 +35,7 @@ Thanks!
 
 ## Datasets
 - [AliExpress Dataset](https://github.com/easezyc/Multitask-Recommendation-Library): This is a dataset gathered from real-world traffic logs of the search system in AliExpress.  
-- [Tecrec Dataset](https://github.com/yuangh-x/2022-NIPS-Tenrec): Tenrec is a large-scale multipurpose benchmark dataset for recommender systems where data was collected from two feeds (articles and videos) recommendation platforms.
+- [Tenrec Dataset](https://github.com/yuangh-x/2022-NIPS-Tenrec): Tenrec is a large-scale multipurpose benchmark dataset for recommender systems where data was collected from two feeds (articles and videos) recommendation platforms.
 
 
 ##  Run
@@ -43,4 +44,4 @@ Thanks!
 ## Acknowledgement
 Our implementation references the code below, thanks to them.
 
-[MTReclib](https://github.com/easezyc/Multitask-Recommendation-Library)
+MTReclib: https://github.com/easezyc/Multitask-Recommendation-Library
